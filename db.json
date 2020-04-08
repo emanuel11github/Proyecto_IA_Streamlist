@@ -1,20 +1,22 @@
  {
-    "name": "Molecule Man",
-    "age": 29,
-    "secretIdentity": "Dan Jukes",
-    "powers": [
-      "Radiation resistance",
-      "Turning tiny",
-      "Radiation blast"
+    "marcadores": [
+      {
+        "latitude": 40.416875,
+        "longitude": -3.703308,
+        "city": "Madrid",
+        "description": "Puerta del Sol"
+      },
+      {
+        "latitude": 40.417438,
+        "longitude": -3.693363,
+        "city": "Madrid",
+        "description": "Paseo del Prado"
+      },
+      {
+        "latitude": 40.407015,
+        "longitude": -3.691163,
+        "city": "Madrid",
+        "description": "Estación de Atocha"
+      }
     ]
-  },
-  {
-    "name": "Madame Uppercut",
-    "age": 39,
-    "secretIdentity": "Jane Wilson",
-    "powers": [
-      "Million tonne punch",
-      "Damage resistance",
-      "Superhuman reflexes"
-    ]
-  }
+}

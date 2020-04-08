@@ -1,22 +1,19 @@
  {
-    "marcadores": [
+    "Perfiles": [
       {
-        "latitude": 40.416875,
-        "longitude": -3.703308,
-        "city": "Madrid",
-        "description": "Puerta del Sol"
+        "Nombre": "Pablo",
+        "Apellido": "Montovani",
+        "Foto": "https://http2.mlstatic.com/lego-batman-la-pelicula-70905-batimovil-legolgh-D_NQ_NP_958990-MLA40040574577_122019-F.webp"
       },
       {
-        "latitude": 40.417438,
-        "longitude": -3.693363,
-        "city": "Madrid",
-        "description": "Paseo del Prado"
+        "Nombre": "Elizabeth",
+        "Apellido": "Bueno",
+        "Foto": "https://http2.mlstatic.com/lego-batman-movie-70902-catwoman-catcycle-chase-2017-nuevo-D_NQ_NP_286425-MLA25447172472_032017-F.webp"
       },
       {
-        "latitude": 40.407015,
-        "longitude": -3.691163,
-        "city": "Madrid",
-        "description": "Estación de Atocha"
+        "Nombre": "Joel",
+        "Apellido": "Lopez",
+        "Foto": "https://http2.mlstatic.com/minifigura-de-robin-cgafas-lego-batman-la-pelicula-D_NQ_NP_831612-MLM27009421308_032018-F.webp"
       }
     ]
 }

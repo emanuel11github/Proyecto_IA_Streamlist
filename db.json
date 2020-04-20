@@ -1,18 +1,21 @@
  {
     "Perfiles": [
       {
-        "Nombre": "Bruce",
-        "Apellido": "Wayne",
+        "id" : 1, 
+        "Nombre": "Bruce Wayne",
+        "Ciudad": "Gotica",
         "Foto": "https://http2.mlstatic.com/lego-batman-la-pelicula-70905-batimovil-legolgh-D_NQ_NP_958990-MLA40040574577_122019-F.webp"
       },
       {
-        "Nombre": "Selina",
-        "Apellido": "Kyle",
+        "id" : 2,
+        "Nombre": "Selina Kyle",
+        "Ciudad": "Metropolis",
         "Foto": "https://http2.mlstatic.com/lego-batman-movie-70902-catwoman-catcycle-chase-2017-nuevo-D_NQ_NP_286425-MLA25447172472_032017-F.webp"
       },
       {
-        "Nombre": "Dick",
-        "Apellido": "Grayson",
+        "id" : 3,
+        "Nombre": "Dick Grayson",
+        "Ciudad": "Blüdhaven",
         "Foto": "https://http2.mlstatic.com/minifigura-de-robin-cgafas-lego-batman-la-pelicula-D_NQ_NP_831612-MLM27009421308_032018-F.webp"
       }
     ]

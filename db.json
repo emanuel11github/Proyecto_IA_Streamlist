@@ -1,22 +1,36 @@
  {
-    "Perfiles": [
+    "Productos": [
       {
         "id" : 1, 
-        "Nombre": "Bruce Wayne",
-        "Ciudad": "Gotica",
-        "Foto": "https://http2.mlstatic.com/lego-batman-la-pelicula-70905-batimovil-legolgh-D_NQ_NP_958990-MLA40040574577_122019-F.webp"
+        "Nombre": "Iphone X",
+        "Precio": "150.000",
+	"Imagen": "https://www.buenosairesimport.com/2264-large_default/iphone-x-256-gb.jpg",
+        "Descripcion": "La pantalla del iPhone X tiene esquinas redondeadas que rematan el diseño curvo del teléfono, y esas esquinas se encuentran dentro de un rectángulo estándar. Si se mide el rectángulo estándar, la pantalla tiene 5,85 pulgadas en diagonal (la superficie real de visión es inferior)."
+      	"Stock": 15,
       },
       {
-        "id" : 2,
-        "Nombre": "Selina Kyle",
-        "Ciudad": "Metropolis",
-        "Foto": "https://http2.mlstatic.com/lego-batman-movie-70902-catwoman-catcycle-chase-2017-nuevo-D_NQ_NP_286425-MLA25447172472_032017-F.webp"
+        "id" : 2, 
+        "Nombre": "Samsung Note 10",
+        "Precio": "100.000",
+	"Imagen": "https://falabella.scene7.com/is/image/FalabellaAR/3386191_1?wid=1500&hei=1500&qlt=70",
+        "Descripcion": "Con Galaxy Note10 y Note10+, diseñamos una experiencia en el celular que equivale a tener una computadora, una consola de juegos, una cámara de filmación profesional y un lápiz inteligente, todo en un dispositivo."
+      	"Stock": 5,
       },
       {
-        "id" : 3,
-        "Nombre": "Dick Grayson",
-        "Ciudad": "Blüdhaven",
-        "Foto": "https://http2.mlstatic.com/minifigura-de-robin-cgafas-lego-batman-la-pelicula-D_NQ_NP_831612-MLM27009421308_032018-F.webp"
-      }
+        "id" : 3, 
+        "Nombre": "Moto G8 Plus",
+        "Precio": "60.000",
+	"Imagen": "https://i.blogs.es/2989e5/portrada/1366_2000.jpg",
+        "Descripcion": "El hermano mayor de la nueva línea G8 llega inicialmente en solitario, con apellido Plus pero sin "hermano G8" al que apoyar."
+      	"Stock": 35,
+      },
+      {
+        "id" : 4, 
+        "Nombre": "Nokia 1100",
+        "Precio": "1500",
+	"Imagen": "https://i.blogs.es/f58d32/nokia-1100/1366_2000.jpg",
+        "Descripcion": "Antes de que Nokia abandonase el trono de la telefonía móvil para dejar paso a los smartphones, su Nokia 1100 entró en los libros de historia. Un teléfono de récord."
+      	"Stock": 1505,
+      },
     ]
 }
